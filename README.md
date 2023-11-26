@@ -59,11 +59,3 @@ This repository showcases the implementation of the Task-Oriented Thinking (ToT)
 ## Contributing
 
 Feel free to contribute, provide feedback, or raise issues. Your input is valuable for continuous improvement.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this summary based on the specifics of your project.
